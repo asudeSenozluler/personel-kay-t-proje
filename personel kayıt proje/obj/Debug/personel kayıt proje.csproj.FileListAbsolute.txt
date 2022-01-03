@@ -1,0 +1,18 @@
+C:\Users\asus\Desktop\udemy kurs\personel kayıt proje\personel kayıt proje\bin\Debug\personel kayıt proje.exe.config
+C:\Users\asus\Desktop\udemy kurs\personel kayıt proje\personel kayıt proje\bin\Debug\personel kayıt proje.exe
+C:\Users\asus\Desktop\udemy kurs\personel kayıt proje\personel kayıt proje\bin\Debug\personel kayıt proje.pdb
+C:\Users\asus\Desktop\udemy kurs\personel kayıt proje\personel kayıt proje\obj\Debug\personel kayıt proje.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\personel kayıt proje\personel kayıt proje\obj\Debug\personel_kayıt_proje.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\personel kayıt proje\personel kayıt proje\obj\Debug\personel_kayıt_proje.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\personel kayıt proje\personel kayıt proje\obj\Debug\personel kayıt proje.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\personel kayıt proje\personel kayıt proje\obj\Debug\personel kayıt proje.exe
+C:\Users\asus\Desktop\udemy kurs\personel kayıt proje\personel kayıt proje\obj\Debug\personel kayıt proje.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\personel kayıt proje\personel kayıt proje\bin\Debug\personel kayıt proje.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\personel kayıt proje\personel kayıt proje\obj\Debug\personel kayıt proje.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\personel kayıt proje\personel kayıt proje\obj\Debug\personel kayıt proje.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\personel kayıt proje\personel kayıt proje\bin\Debug\personel kayıt proje.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\personel kayıt proje\personel kayıt proje\bin\Debug\personel kayıt proje.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\personel kayıt proje\personel kayıt proje\obj\Debug\personel kayıt proje.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\personel kayıt proje\personel kayıt proje\obj\Debug\personel_kayıt_proje.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\personel kayıt proje\personel kayıt proje\obj\Debug\personel_kayıt_proje.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\personel kayıt proje\personel kayıt proje\obj\Debug\personel kayıt proje.csproj.GenerateResource.Cache
